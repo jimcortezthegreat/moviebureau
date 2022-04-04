@@ -5,6 +5,7 @@ https://www.themoviebureau.com/privacy
 https://www.themoviebureau.com/movie-news/1
 https://www.themoviebureau.com/tv-news/1
 https://www.themoviebureau.com/anime/1
+https://www.themoviebureau.com/article/6e189b90-f62c-4134-966e-c905ca32ff22
 https://www.themoviebureau.com/article/9d75b092-f0ca-4e19-bcac-d69396ebc31e
 https://www.themoviebureau.com/article/0fa0e184-e22e-44dd-9976-2b19011c32f3
 https://www.themoviebureau.com/article/e9eab11e-50b8-49a6-95ff-6cb609eae058
