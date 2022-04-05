@@ -3,8 +3,10 @@ https://www.themoviebureau.com/contact
 https://www.themoviebureau.com/terms
 https://www.themoviebureau.com/privacy
 https://www.themoviebureau.com/movie-news/1
+https://www.themoviebureau.com/movie-news/2
 https://www.themoviebureau.com/tv-news/1
 https://www.themoviebureau.com/anime/1
+https://www.themoviebureau.com/article/e75ceff2-8f62-4181-a896-291aa4f97a0c
 https://www.themoviebureau.com/article/1d400a42-2c79-4fb8-be48-f5755e647e86
 https://www.themoviebureau.com/article/51ea00ed-a2df-4fcb-865e-4514d97e268d
 https://www.themoviebureau.com/article/da2311fe-cb3b-49e1-9810-4f0dd8d5ac56
