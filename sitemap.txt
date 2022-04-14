@@ -4,8 +4,11 @@ https://www.themoviebureau.com/terms
 https://www.themoviebureau.com/privacy
 https://www.themoviebureau.com/movie-news/1
 https://www.themoviebureau.com/movie-news/2
+https://www.themoviebureau.com/movie-news/3
 https://www.themoviebureau.com/tv-news/1
 https://www.themoviebureau.com/anime/1
+https://www.themoviebureau.com/article/b33d19dc-f1be-4282-9679-acdacf7c2d7e
+https://www.themoviebureau.com/article/1dd77e03-3722-45aa-8542-b5a045ff401d
 https://www.themoviebureau.com/article/594a7681-075f-455c-b030-a00e9075ac34
 https://www.themoviebureau.com/article/119b2778-91fa-49b5-85ed-bb94dab1f369
 https://www.themoviebureau.com/article/d3f3a202-4f55-4b37-b4c7-18311b645ee7
