@@ -10,6 +10,7 @@ https://www.themoviebureau.com/movie-news/5
 https://www.themoviebureau.com/tv-news/1
 https://www.themoviebureau.com/tv-news/2
 https://www.themoviebureau.com/anime/1
+https://www.themoviebureau.com/article/ef7ea597-5bb4-41d0-a8e0-596a0ca03ee2
 https://www.themoviebureau.com/article/8839128b-e924-49e6-b633-ced9fd863a18
 https://www.themoviebureau.com/article/a7d55ce3-8163-4dd5-80a3-d2f31c9b89b1
 https://www.themoviebureau.com/article/752f6e9c-cfc6-413b-af02-bbae594c1c78
